@@ -1,14 +1,13 @@
 # Classification-Models-Machine-Learning
 
 ## Here, Machine Learning Classifiers are trained to:
+
 - learn the relationship of different datasets and 
 - evaluating how well they have come to also learn the data
 
-## The only Dataset the Models trained on here is:
+## The only Dataset all the 7 Classifiers (Models) trained on here is:
 
-- 50_Startups.csv
-- Position_Salaries.csv
-- Salary_Data.csv
+- Social_Network_Ads.csv
 
 ### The reason to that is so we would be able to run the following:
 
