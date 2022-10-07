@@ -4,7 +4,7 @@
 - learn the relationship of different datasets and 
 - evaluating how well they have come to also learn the data
 
-## The onlly Dataset the Models trained on here is:
+## The only Dataset the Models trained on here is:
 
 - 50_Startups.csv
 - Position_Salaries.csv
